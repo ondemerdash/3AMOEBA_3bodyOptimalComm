@@ -1,4 +1,5 @@
-c
+c Hello again :) (from Penporn)
+
 c
 c     ###################################################
 c     ##  COPYRIGHT (C)  1990  by  Jay William Ponder  ##
